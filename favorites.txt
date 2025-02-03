@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 owoce
 warzywa
 czekolada
+=======
+something in the rain
+dp
+everything everywhere
+>>>>>>> movies
+
